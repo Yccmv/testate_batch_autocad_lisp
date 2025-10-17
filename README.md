@@ -5,7 +5,8 @@ scarica sia il dwg che il lisp e sostituisci nel layout la tua testata standard
 carica il lisp
 apri il file txt con l'elenco tavole...
 
-il file di testo deve essere tipo:
+il file di testo deve essere tipo (cioè ci devono essere i punti):
+
 01. nome tavola. 1:100
 02. nome tavola2. 1:500
 03. nome tavola3
